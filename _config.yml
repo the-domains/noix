@@ -1,0 +1,28 @@
+name: noix
+favicon: null
+layout_spectrum: 0.507740750676021
+typography_spectrum: 0.8707926641218364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.06117533543147147
+  lightness: 0.04762765346094966
+  saturation: 0.22630614577792585
+  rhythmicContrast: 0.24983331537805498
+purpose: []
